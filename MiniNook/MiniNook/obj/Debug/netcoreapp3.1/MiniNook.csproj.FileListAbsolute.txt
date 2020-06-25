@@ -1,0 +1,33 @@
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.csprojAssemblyReference.cache
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.AssemblyInfoInputs.cache
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.AssemblyInfo.cs
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.csproj.CoreCompileInputs.cache
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.exe
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.deps.json
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.runtimeconfig.json
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.runtimeconfig.dev.json
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.dll
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.pdb
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.dll
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.pdb
+C:\Users\ambaa\source\repos\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.genruntimeconfig.cache
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.exe
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.deps.json
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.runtimeconfig.json
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.runtimeconfig.dev.json
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\MiniNook.pdb
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.csprojAssemblyReference.cache
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.AssemblyInfoInputs.cache
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.AssemblyInfo.cs
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.pdb
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.genruntimeconfig.cache
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.csproj.CoreCompileInputs.cache
+C:\Users\RoyOh\Documents\documentos escuela\9no cuatri\Progra_movil\unidad2\MiniNook\MiniNook\obj\Debug\netcoreapp3.1\MiniNook.csproj.CopyComplete
