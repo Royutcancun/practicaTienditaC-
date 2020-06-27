@@ -48,17 +48,17 @@ namespace MiniNook.clases
                             // registrar 
 
                             Productos productoNuevo = new Productos();
-                          //  Console.Write("ID:");
-                           // productoNuevo.Id = Convert.ToInt32(Console.ReadLine());
+                            //  Console.Write("ID:");
+                            // productoNuevo.Id = Convert.ToInt32(Console.ReadLine());
 
-                                Console.Write("Nombre:");
-                                productoNuevo.Nombre = Console.ReadLine();
+                            Console.Write("Nombre:");
+                            productoNuevo.Nombre = Console.ReadLine();
 
-                                Console.Write("Tipo:");
-                                productoNuevo.Tipo = Console.ReadLine();
+                            Console.Write("Tipo:");
+                            productoNuevo.Tipo = Console.ReadLine();
 
-                                Console.Write("Precio:");
-                                productoNuevo.Precio = Convert.ToInt32(Console.ReadLine());
+                            Console.Write("Precio:");
+                            productoNuevo.Precio = Convert.ToInt32(Console.ReadLine());
 
 
                             using (SqlConnection connection = new SqlConnection(para))
@@ -66,7 +66,7 @@ namespace MiniNook.clases
                                 try
                                 {
                                     connection.Open();
-                                    SqlCommand command = new SqlCommand("insert into rogelio (nombre,tipo,precio) values ('"+ productoNuevo.Nombre+ "','" + productoNuevo.Tipo + "'," + productoNuevo.Precio + ")", connection);
+                                    SqlCommand command = new SqlCommand("insert into rogelio (nombre,tipo,precio) values ('" + productoNuevo.Nombre + "','" + productoNuevo.Tipo + "'," + productoNuevo.Precio + ")", connection);
                                     SqlDataReader reader = command.ExecuteReader();
 
                                     reader.Close();
@@ -81,10 +81,9 @@ namespace MiniNook.clases
                             break;
                         }
 
+
                     case 2:
                         {
-                            // Actualizar 
-
                             int idActualizar;
                             Console.WriteLine("Ingresa el ID que deseas editar: ");
                             idActualizar = Convert.ToInt32(Console.ReadLine());
@@ -115,22 +114,9 @@ namespace MiniNook.clases
                                     Console.WriteLine(exception.Message);
                                 }
                             }
-                            foreach (Productos b in listaProductos)
-                            {
-                                if (b.Id == idActualizar)
-                                {
-                                    Console.WriteLine("----------------------------------");
-                                    Console.WriteLine("ID: " + b.Id);
-                                    Console.WriteLine("Nombre: " + b.Nombre);
-                                    Console.WriteLine("Tipo: $" + b.Tipo);
-                                    Console.WriteLine("Precio:" + b.Precio);
-                                    Console.WriteLine("----------------------------------");
 
-                                    break;
-                                }
 
-                                break;
-                            }
+                            break;
                         }
                     case 3:
                         {
@@ -197,20 +183,7 @@ namespace MiniNook.clases
                             }
                             //termina validacion de conexion
 
-                            foreach (Productos b in listaProductos){
-                                if(b.Id == idBuscar)
-                                {
-                                Console.WriteLine("----------------------------------");
-                                Console.WriteLine("ID: "+b.Id);
-                                Console.WriteLine("Nombre: "+ b.Nombre);
-                                Console.WriteLine("Tipo: $"+ b.Tipo);
-                                Console.WriteLine("Precio:"+ b.Precio);
-                                Console.WriteLine("----------------------------------");
-                                   
-                                    break;
-                                }
-
-                            }
+                           
                             break;
 
                         }
@@ -232,7 +205,12 @@ namespace MiniNook.clases
                                     {
                                         while (reader.Read())
                                         {
-                                            Console.WriteLine(reader.GetString(1).ToString());
+                                            Console.WriteLine("----------------------------------");
+                                            Console.WriteLine("ID: " + reader.GetInt32(0));
+                                            Console.WriteLine("Nombre: " + reader.GetString(1).ToString());
+                                            Console.WriteLine("Tipo: " + reader.GetString(2).ToString());
+                                            Console.WriteLine("Precio: $" + reader.GetInt32(3));
+                                            Console.WriteLine("----------------------------------");
                                         }
                                     }
                                     else
